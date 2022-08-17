@@ -30,5 +30,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomnds&repo=Cartoonflix-Desafio-DIO&theme=gotham
 )](https://github.com/sergiomnds/Cartoonflix-Desafio-DIO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomnds&repo=pythonMundo1&theme=gotham
-)](https://github.com/sergiomnds/pythonMundo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomnds&repo=python-mundo1&theme=gotham
+)](https://github.com/sergiomnds/python-mundo1)
