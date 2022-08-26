@@ -8,11 +8,14 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="java-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="html-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="js-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
   <img align="right" alt="steven-pic" height="160" src="https://64.media.tumblr.com/310056e369f06526d341936f0f1e9879/e09e8ff932ed94f8-f9/s400x600/80282bf8db181c0378f085628785695e60204308.gifv">
+  
 </div>
 
 ##
