@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/sergiomnds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiomnds&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomnds&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats-lilac-rho.vercel.app/api?username=sergiomnds&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-lilac-rho.vercel.app/api/top-langs/?username=sergiomnds&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,12 +26,12 @@
 </div>
 
 ## 🚀 Destaques
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomnds&repo=letterboxd-interface&theme=gotham
+[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=letterboxd-interface&theme=gotham
 )](https://github.com/sergiomnds/letterboxd-interface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomnds&repo=imersaoJava-Alura&theme=gotham
+[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=imersaoJava-Alura&theme=gotham
 )](https://github.com/sergiomnds/imersaoJava-Alura)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomnds&repo=Cartoonflix-Desafio-DIO&theme=gotham
+[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=Cartoonflix-Desafio-DIO&theme=gotham
 )](https://github.com/sergiomnds/Cartoonflix-Desafio-DIO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergiomnds&repo=python-mundo1&theme=gotham
+[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=python-mundo1&theme=gotham
 )](https://github.com/sergiomnds/python-mundo1)
