@@ -34,4 +34,4 @@
 [![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=Cartoonflix-Desafio-DIO&theme=gotham
 )](https://github.com/sergiomnds/Cartoonflix-Desafio-DIO)
 [![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=python-mundo1&theme=gotham
-)](https://github.com/sergiomnds/python-mundo1)
+)](https://github.com/sergiomnds/python-mundo3)
