@@ -32,6 +32,6 @@
 )](https://github.com/sergiomnds/imersaoJava-Alura)
 
 [![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=clinica-oftalmologica-laravel&theme=gotham
-)](https://github.com/sergiomnds/Cartoonflix-Desafio-DIO)
+)](https://github.com/sergiomnds/clinica-oftalmologica-laravel)
 [![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=python-mundo3&theme=gotham
 )](https://github.com/sergiomnds/python-mundo3)
