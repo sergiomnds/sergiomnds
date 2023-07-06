@@ -29,8 +29,8 @@
 ## 🚀 Destaques
 [![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=letterboxd-interface&theme=gotham
 )](https://github.com/sergiomnds/letterboxd-interface)
-[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=flutter_projeto_perguntas&theme=gotham
-)](https://github.com/sergiomnds/flutter_projeto_perguntas)
+[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=flutter-projeto-perguntas&theme=gotham
+)](https://github.com/sergiomnds/flutter-projeto-perguntas)
 
 
 [![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=clinica-oftalmologica-laravel&theme=gotham
