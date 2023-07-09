@@ -14,9 +14,6 @@
   <img align="center" alt="flutter-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="php-icon" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="laravel-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  
-  <img align="right" alt="steven-pic" height="160" src="https://64.media.tumblr.com/310056e369f06526d341936f0f1e9879/e09e8ff932ed94f8-f9/s400x600/80282bf8db181c0378f085628785695e60204308.gifv">
-  
 </div>
 
 ##
@@ -25,14 +22,3 @@
   <a href = "mailto:srgmendesl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sergiomendes-perfil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## 🚀 Destaques
-[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=letterboxd-interface&theme=gotham
-)](https://github.com/sergiomnds/letterboxd-interface)
-[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=personal-expenses-flutter&theme=gotham
-)](https://github.com/sergiomnds/personal-expenses-flutter)
-
-[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=clinica-oftalmologica-laravel&theme=gotham
-)](https://github.com/sergiomnds/clinica-oftalmologica-laravel)
-[![Readme Card](https://github-readme-stats-lilac-rho.vercel.app/api/pin/?username=sergiomnds&repo=python-mundo3&theme=gotham
-)](https://github.com/sergiomnds/python-mundo3)
